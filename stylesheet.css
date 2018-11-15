@@ -1,0 +1,10 @@
+.col-sm-12 {
+  text-align: center;
+}
+.jumbotron {
+  background-image: url("pokeBallBKG.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 225px;
+}
+
